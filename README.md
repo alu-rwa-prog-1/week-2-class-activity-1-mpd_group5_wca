@@ -2,7 +2,7 @@
 
 ## Group Members
 - Wanjiru Wangondu
-- Catherne Muthoni
+- Catherine Muthoni
 
 ## Assignment Description
 A flutter project for a simple name collecting app
